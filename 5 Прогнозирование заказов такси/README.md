@@ -1,1 +1,3 @@
-
+| Название | Краткое описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [5. ML, Прогнозирование заказов такси](https://github.com/GregoryGri/Ya_Practicum_projects/blob/main/5%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8/taxi_orders_prediction.ipynb) | Временные ряды. Построил модель для предсказания количества заказов такси на следующий час в аэропорт. Значение метрики RMSE 44,97.|*pandas*, *numpy*, *matplotlib*, *statsmodels*, *lightgbm*, *sklearn* |
